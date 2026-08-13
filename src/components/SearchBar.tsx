@@ -39,7 +39,7 @@ export default function SearchBar({
       >
 
         <Text style={styles.buttonText}>
-          🔍
+          ARA
         </Text>
 
       </TouchableOpacity>
