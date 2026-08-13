@@ -11,7 +11,7 @@ export default function Header() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>WEATHER APP</Text>
+      <Text style={styles.title}>WEATHER APP ☁️</Text>
       <Text style={styles.date}>{date}</Text>
     </View>
   );
